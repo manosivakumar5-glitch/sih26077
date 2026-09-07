@@ -1,0 +1,10 @@
+{
+  "name": "Remix STORM-MIND: Weather Digital Twin",
+  "description": "A self-learning, probabilistic, neuro-symbolic weather digital twin and hyper-local early warning system for severe weather nowcasting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
